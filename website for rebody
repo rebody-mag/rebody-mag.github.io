@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rebody</title>
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+
+<header>
+  <h1>Rebody</h1>
+  <nav>
+    <a href="#about">About</a>
+    <a href="#health">Health</a>
+    <a href="#justice">Justice</a>
+    <a href="#awareness">Awareness</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <div class="hero-text">
+    <h2>Transforming Lives, One Story at a Time</h2>
+    <p>Rebody is a platform dedicated to raising awareness on women's health, justice, and empowerment. We spotlight stories that inspire, educate, and push for change.</p>
+  </div>
+</section>
+
+<section id="about">
+  <h3>About Rebody</h3>
+  <p>I'm the creative mind and editor behind Rebody. I use this platform to create awareness on women's issues—health, justice, and empowerment—and am passionate about transforming lives through storytelling and advocacy.</p>
+</section>
+
+<section id="health">
+  <h3>Health</h3>
+  <div class="card-container">
+    <div class="card">
+      <img src="https://via.placeholder.com/400x200" alt="Women's Wellness">
+      <h4>Women's Wellness</h4>
+      <p>We explore physical and mental health challenges women face and share guidance, resources, and inspirational stories.</p>
+    </div>
+    <div class="card">
+      <img src="https://via.placeholder.com/400x200" alt="Nutrition & Fitness">
+      <h4>Nutrition & Fitness</h4>
+      <p>Tips, expert advice, and personal journeys on achieving holistic well-being in everyday life.</p>
+    </div>
+  </div>
+</section>
+
+<section id="justice">
+  <h3>Justice</h3>
+  <div class="card-container">
+    <div class="card">
+      <img src="https://via.placeholder.com/400x200" alt="Legal Rights">
+      <h4>Legal Rights</h4>
+      <p>Information on women's rights, navigating the legal system, and how to advocate for yourself and others.</p>
+    </div>
+    <div class="card">
+      <img src="https://via.placeholder.com/400x200" alt="Accountability">
+      <h4>Accountability</h4>
+      <p>Spotlighting cases, campaigns, and stories that demand justice and equality for women everywhere.</p>
+    </div>
+  </div>
+</section>
+
+<section id="awareness">
+  <h3>Awareness</h3>
+  <div class="card-container">
+    <div class="card">
+      <img src="https://via.placeholder.com/400x200" alt="Campaigns & Stories">
+      <h4>Campaigns & Stories</h4>
+      <p>From social movements to personal journeys, we amplify voices that often go unheard.</p>
+    </div>
+    <div class="card">
+      <img src="https://via.placeholder.com/400x200" alt="Education">
+      <h4>Education</h4>
+      <p>Resources, guides, and actionable steps to help you understand and engage in women's advocacy.</p>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <p>Connect with us:</p>
+  <div class="social-icons">
+    <a href="#"><i class="fab fa-facebook-f"></i></a>
+    <a href="#"><i class="fab fa-twitter"></i></a>
+    <a href="#"><i class="fab fa-instagram"></i></a>
+  </div>
+  <p>&copy; 2026 Rebody. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
